@@ -66,7 +66,7 @@
     "number-abbreviate": "^2.0.0",
     "numbro": "highvelocityspace/numbro",
     "path": "^0.12.7",
-    "poloniex.js": "0.0.7",
+    "poloniex.js": "0.0.9",
     "popper.js": "^1.12.9",
     "postcss-loader": "^2.0.9",
     "progress": "^2.0.0",
